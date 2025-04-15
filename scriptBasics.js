@@ -80,7 +80,7 @@ const wordList = [
         hint: "It is defines as movement that is planned, systematic, repetitive, and itentional, It can also be used to develop or maintain physical fitness."
     },
     {
-        word: "Rhythm",
+        word: "rhythm",
         hint: "The pattern and emphasis of beats."
     },
     {
